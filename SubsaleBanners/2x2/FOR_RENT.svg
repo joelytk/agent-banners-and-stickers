@@ -136,10 +136,7 @@
   <g id="header">
     <rect class="cls-9" x="-28.52" y="-34.1" width="1785.07" height="717.88" />
     <g>
-      <text x="50%" y="275" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
-        FOR SALE
-      </text>
-      <text x="50%" y="588" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
+      <text x="50%" y="431.5" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
         FOR RENT
       </text>
     </g>
