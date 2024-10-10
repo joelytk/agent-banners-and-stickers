@@ -1,26 +1,28 @@
 # Subsale Banners and Subsale Stickers
 
-Subsale banner sizes:
+Subsale Banners:
 
-- 2x2
-- 3x2\*
-- 3x2 exclusive
-- 4x2
-- 4x3
-- 5x2\*
-- 5x3\*
-- 8x3\*
-- 8x4\*
-- 10x3\*
-- 10x4\*
-- 16x6
+| Size                | Priority | Finished |
+| ------------------- | -------- | -------- |
+| 2' x 2'             | Low      | [ ]      |
+| 3' x 2'             | High     | [ ]      |
+| 3' x 2' (exclusive) | Low      | [ ]      |
+| 4' x 2'             | Low      | [ ]      |
+| 4' x 3'             | Low      | [ ]      |
+| 5' x 2'             | High     | [ ]      |
+| 5' x 3'             | High     | [ ]      |
+| 8' x 3'             | High     | [ ]      |
+| 8' x 4'             | High     | [ ]      |
+| 10' x 3'            | High     | [ ]      |
+| 10' x 4'            | High     | [ ]      |
+| 16' x 6'            | Low      | [ ]      |
 
-* = prioritize
+Subsale Stickers:
 
-Subsale sticker sizes:
-
-- A2
-- A3
+| Size | Priority | Finished |
+| ---- | -------- | -------- |
+| A2   | High     | [ ]      |
+| A3   | High     | [ ]      |
 
 TODO:
 
