@@ -2,24 +2,24 @@
 
 Subsale Banners:
 
-| Size                | Priority | Status                                                                                    | Notes                |
-| ------------------- | -------- | ----------------------------------------------------------------------------------------- | -------------------- |
-| 2' x 2'             | Low      | <ul><li>- [x] FOR RENT</li><li>- [x] FOR SALE</li><li>- [x] FOR RENT & FOR SALE</li></ul> |                      |
-| 3' x 2'             | **High** | <ul><li>- [x] FOR RENT</li><li>- [x] FOR SALE</li><li>- [x] FOR RENT & FOR SALE</li></ul> |                      |
-| 3' x 2' (exclusive) | Low      | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 4' x 2'             | Low      | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 4' x 3'             | Low      | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 5' x 2'             | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> | Compare with old one |
-| 5' x 3'             | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 8' x 3'             | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 8' x 4'             | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 10' x 3'            | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 10' x 4'            | High     | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
-| 16' x 6'            | Low      | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |                      |
+| Size                | Priority | Status             |
+| ------------------- | -------- | ------------------ |
+| 2' x 2'             | Low      | :heavy-check-mark: |
+| 3' x 2'             | **High** | :heavy-check-mark: |
+| 3' x 2' (exclusive) | Low      |                    |
+| 4' x 2'             | Low      |                    |
+| 4' x 3'             | Low      |                    |
+| 5' x 2'             | **High** | :heavy-check-mark: |
+| 5' x 3'             | **High** |                    |
+| 8' x 3'             | **High** |                    |
+| 8' x 4'             | **High** |                    |
+| 10' x 3'            | **High** |                    |
+| 10' x 4'            | High     |                    |
+| 16' x 6'            | Low      |                    |
 
 Subsale Stickers:
 
-| Size | Priority | Status                                                                                    |
-| ---- | -------- | ----------------------------------------------------------------------------------------- |
-| A2   | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |
-| A3   | **High** | <ul><li>- [ ] FOR RENT</li><li>- [ ] FOR SALE</li><li>- [ ] FOR RENT & FOR SALE</li></ul> |
+| Size | Priority | Status |
+| ---- | -------- | ------ |
+| A2   | **High** |        |
+| A3   | **High** |        |
