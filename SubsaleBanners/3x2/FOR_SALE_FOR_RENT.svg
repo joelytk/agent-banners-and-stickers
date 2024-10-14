@@ -209,6 +209,9 @@
     <text x="50%" y="1212" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle">
 			<tspan>016<tspan>-</tspan>645</tspan><tspan dx="80">0773</tspan>
 		</text>
+    <!-- <text x="50%" y="1212" class="font-supercar text-agent-hp-no-smaller cls-2" text-anchor="middle">
+			<tspan>018<tspan>-</tspan>8888</tspan><tspan dx="80">8888/tspan>
+		</text> -->
     <text x="50%" y="1434" class="font-helvetica-cn text-agent-name cls-14" text-anchor="middle">
 			Yvonne Tan<tspan dx="40" class="font-helvetica-cn text-agent-ren-no">(REN No.: 32058)</tspan>
 		</text>
