@@ -102,11 +102,6 @@
         letter-spacing: 116px;
       }
 
-      .text-agent-hp-no-smaller {
-        font-size: 1632px;
-        letter-spacing: 34px;
-      }
-
       .text-agent-name {
         font-size: 446px;
       }

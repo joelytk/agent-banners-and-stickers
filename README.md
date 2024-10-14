@@ -14,7 +14,7 @@ Subsale Banners:
 | 8' x 3'             | **High** | **Done** &#x2705; |                                                                                                  |
 | 8' x 4'             | **High** | **Done** &#x2705; | Use commented line with class "text-agent-hp-no-smaller" if phone number format is 01X-XXXX XXXX |
 | 10' x 3'            | **High** | **Done** &#x2705; |                                                                                                  |
-| 10' x 4'            | **High** | In progress       |                                                                                                  |
+| 10' x 4'            | **High** | **Done** &#x2705; | Use commented line with class "text-agent-hp-no-smaller" if phone number format is 01X-XXXX XXXX |
 | 16' x 6'            | Low      | Todo              |                                                                                                  |
 
 Subsale Stickers:
