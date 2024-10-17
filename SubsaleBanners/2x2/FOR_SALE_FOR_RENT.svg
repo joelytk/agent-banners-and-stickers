@@ -149,11 +149,11 @@
   </g>
   <g id="main">
 		<rect x="-28.52" y="683.78" class="cls-5" width="1785.07" height="682.98" />
-    <text x="50%" y="1092" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle">
-			<tspan>012<tspan>-</tspan>682</tspan><tspan dx="80">6768</tspan>
+    <text x="50%" y="1092" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="1682">
+			<tspan word-spacing="-100">012<tspan>-</tspan>682 6768</tspan>
 		</text>
     <text x="50%" y="1334" class="font-helvetica-cn text-agent-name cls-12" text-anchor="middle">
-			Js Ho<tspan dx="40" class="font-helvetica-cn text-agent-ren-no">(REN No.: 37053)</tspan>
+			Js Ho <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 37053)</tspan>
 		</text>
   </g>
   <g id="footer">

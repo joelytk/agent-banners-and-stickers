@@ -82,7 +82,6 @@
 
       .font-helvetica-light {
         font-family: HelveticaNeueLTStd-Lt;
-        letter-spacing: 0.5px;
       }
 
       .font-helvetica-cn {
@@ -99,12 +98,6 @@
 
       .text-agent-hp-no {
         font-size: 1632px;
-        letter-spacing: 80px;
-      }
-
-      .text-agent-hp-no-smaller {
-        font-size: 1632px;
-        letter-spacing: 34px;
       }
 
       .text-agent-name {
@@ -199,12 +192,9 @@
   </g>
   <g id="main">
     <rect class="cls-5" x="0" y="992.47" width="6912" height="1686.96"/>
-    <text x="50%" y="2426" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle">
-			<tspan>012<tspan>-</tspan>338</tspan><tspan dx="160">6207</tspan>
+    <text x="50%" y="2426" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="6323">
+			<tspan word-spacing="-250">012<tspan>-</tspan>338 6207</tspan>
 		</text>
-    <!-- <text x="50%" y="2426" class="font-supercar text-agent-hp-no-smaller cls-2" text-anchor="middle" style="fill:red;opacity:0.5;">
-			<tspan>018<tspan>-</tspan>8888</tspan><tspan dx="160">8888</tspan>
-		</text> -->
   </g>
   <g id="footer">
     <rect class="cls-10" x="0" y="2679.43" width="6912" height="812.57"/>
