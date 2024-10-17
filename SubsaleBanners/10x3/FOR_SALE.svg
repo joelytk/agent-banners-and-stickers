@@ -99,7 +99,6 @@
 
       .text-agent-hp-no {
         font-size: 1300px;
-        letter-spacing: 116px;
       }
 
       .text-agent-name {
@@ -194,8 +193,8 @@
   </g>
   <g id="main">
     <rect class="cls-5" x="0" y="834.73" width="8640" height="1152.48"/>
-    <text x="50%" y="1884" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle">
-			<tspan>012<tspan>-</tspan>338</tspan><tspan dx="160">6207</tspan>
+    <text x="50%" y="1884" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="5703">
+			<tspan word-spacing="-190">012<tspan>-</tspan>338 6207</tspan>
 		</text>
   </g>
   <g id="footer">
@@ -225,7 +224,7 @@
       </g>
     </g>
     <text x="6490" y="2439" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
-			Eugene Chan<tspan dx="100" class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
+			Eugene Chan <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
 		</text>
   </g>
 </svg>

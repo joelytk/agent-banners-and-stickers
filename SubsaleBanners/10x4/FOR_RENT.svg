@@ -99,12 +99,6 @@
 
       .text-agent-hp-no {
         font-size: 1800px;
-        letter-spacing: 160px;
-      }
-
-      .text-agent-hp-no-smaller {
-        font-size: 1800px;
-        letter-spacing: 120px;
       }
 
       .text-agent-name {
@@ -199,12 +193,9 @@
   </g>
   <g id="main">
     <rect class="cls-5" x="0" y="989" width="8640" height="1715.48"/>
-    <text x="50%" y="2484" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle">
-			<tspan>012<tspan>-</tspan>338</tspan><tspan dx="240">6207</tspan>
+    <text x="50%" y="2484" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="7763">
+			<tspan word-spacing="-270">012<tspan>-</tspan>338 6207</tspan>
 		</text>
-    <!-- <text x="50%" y="2484" class="font-supercar text-agent-hp-no-smaller cls-2" text-anchor="middle">
-			<tspan>018<tspan>-</tspan>8888</tspan><tspan dx="240">8888</tspan>
-		</text> -->
   </g>
   <g id="footer">
     <rect class="cls-10" x="0" y="2704.48" width="8640" height="786.91"/>
@@ -231,7 +222,7 @@
       </g>
     </g>
     <text x="6560" y="3255" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
-			Eugene Chan<tspan dx="120" class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
+			Eugene Chan <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
 		</text>
   </g>
 </svg>
