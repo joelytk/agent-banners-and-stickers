@@ -22,4 +22,4 @@ Subsale Stickers:
 | Size | Priority | Status            |
 | ---- | -------- | ----------------- |
 | A2   | **High** | **Done** &#x2705; |
-| A3   | **High** | Todo              |
+| A3   | **High** | **Done** &#x2705; |

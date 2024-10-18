@@ -188,10 +188,7 @@
       <polygon class="cls-1" points="431.37 296.44 422.59 295.48 593.12 136.68 422.59 -21.53 431.37 -22 602.74 137.22 431.37 296.44"/>
     </g>
     <g>
-      <text x="898" y="123" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
-        FOR SALE
-      </text>
-      <text x="898" y="243" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
+      <text x="898" y="183" class="cls-5 font-helvetica-cn text-header" text-anchor="middle">
         FOR RENT
       </text>
     </g>
