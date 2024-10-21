@@ -219,8 +219,13 @@
         </g>
       </g>
     </g>
-    <text x="3400" y="1736" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
-			Terence <tspan class="font-helvetica-cn text-agent-ren-no">(PEA No.: 1098)</tspan>
-		</text>
+    <g>
+      <text x="3400" y="1680" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
+        Terence
+      </text>
+      <text x="3400" y="1810" class="font-helvetica-cn text-agent-ren-no cls-5" text-anchor="middle">
+        (PEA No.: 1098)
+      </text>
+    </g>
   </g>
 </svg>

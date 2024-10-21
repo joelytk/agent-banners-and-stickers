@@ -222,11 +222,13 @@
         </g>
       </g>
     </g>
-    <text x="1060" y="474" class="font-helvetica-cn cls-5 text-agent-name" text-anchor="middle">
-      Eugene Chan
-    </text>
-    <text x="1060" y="512" class="font-helvetica-cn cls-5 text-agent-ren-no" text-anchor="middle">
-      (REN No.: 25179)
-    </text>
+    <g>
+      <text x="1060" y="474" class="font-helvetica-cn cls-5 text-agent-name" text-anchor="middle">
+        Eugene Chan
+      </text>
+      <text x="1060" y="512" class="font-helvetica-cn cls-5 text-agent-ren-no" text-anchor="middle">
+        (REN No.: 25179)
+      </text>
+    </g>
   </g>
 </svg>

@@ -223,8 +223,12 @@
       </g>
     </g>
     <g>
-      <text x="5345" y="3140" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">KENNY PROPERTY</text>
-      <text x="5345" y="3335" class="font-helvetica-cn text-agent-ren-no cls-5" text-anchor="middle">(REN No.: 14251)</text>
+      <text x="5345" y="3130" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
+        KENNY PROPERTY
+      </text>
+      <text x="5345" y="3340" class="font-helvetica-cn text-agent-ren-no cls-5" text-anchor="middle">
+        (REN No.: 14251)
+      </text>
     </g>
   </g>
 </svg>

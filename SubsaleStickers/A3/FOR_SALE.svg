@@ -195,11 +195,14 @@
   </g>
   <g id="main">
     <rect class="cls-5" x="0" y="274.02" width="1231.72" height="430.76"/>
-    <text x="50%" y="541" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="1082">
+    <text x="50%" y="530" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="1082">
 			<tspan word-spacing="-28">016<tspan>-</tspan>811 2039</tspan>
 		</text>
-    <text x="50%" y="678" class="font-helvetica-cn text-agent-name cls-2" text-anchor="middle">
-			CATHERINE CHIN <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 04979)</tspan>
+    <text x="50%" y="638" class="font-helvetica-cn text-agent-name cls-2" text-anchor="middle">
+			CATHERINE CHIN
+		</text>
+    <text x="50%" y="692" class="font-helvetica-cn text-agent-ren-no cls-2" text-anchor="middle">
+			(REN No.: 04979)
 		</text>
   </g>
   <g id="footer">

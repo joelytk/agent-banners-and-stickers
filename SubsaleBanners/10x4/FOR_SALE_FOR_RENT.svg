@@ -221,8 +221,13 @@
         <text x="3888" y="3230" class="cls-5 font-helvetica-light text-lp-logo-branch-code" text-anchor="middle">E(1)1584</text>
       </g>
     </g>
-    <text x="6560" y="3255" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
-			Eugene Chan <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
-		</text>
+    <g>
+      <text x="6560" y="3155" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
+        Eugene Chan
+      </text>
+      <text x="6560" y="3395" class="font-helvetica-cn text-agent-ren-no cls-5" text-anchor="middle">
+        (REN No.: 25179)
+      </text>
+    </g>
   </g>
 </svg>

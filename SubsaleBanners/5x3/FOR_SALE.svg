@@ -199,11 +199,14 @@
   </g>
   <g id="main">
     <rect class="cls-5" x="0" y="768.94" width="4392" height="1383.02" />
-    <text x="50%" y="1710" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="4182">
+    <text x="50%" y="1660" class="font-supercar text-agent-hp-no cls-2" text-anchor="middle" lengthAdjust="spacingAndGlyphs" textLength="4182">
 			<tspan word-spacing="-220">012<tspan>-</tspan>448 3093</tspan>
 		</text>
-    <text x="50%" y="2112" class="font-helvetica-cn text-agent-name cls-14" text-anchor="middle">
-			EDWIN TAN <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 38526)</tspan>
+    <text x="50%" y="1960" class="font-helvetica-cn text-agent-name cls-14" text-anchor="middle">
+			EDWIN TAN
+		</text>
+    <text x="50%" y="2100" class="font-helvetica-cn text-agent-ren-no cls-14" text-anchor="middle">
+			(REN No.: 38526)
 		</text>
   </g>
   <g id="footer">

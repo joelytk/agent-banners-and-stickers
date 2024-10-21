@@ -223,8 +223,13 @@
         </g>
       </g>
     </g>
-    <text x="5300" y="2439" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
-			Eugene Chan <tspan class="font-helvetica-cn text-agent-ren-no">(REN No.: 25179)</tspan>
-		</text>
+    <g>
+      <text x="5300" y="2340" class="font-helvetica-cn text-agent-name cls-5" text-anchor="middle">
+        Eugene Chan
+      </text>
+      <text x="5300" y="2540" class="font-helvetica-cn text-agent-ren-no cls-5" text-anchor="middle">
+        (REN No.: 25179)
+      </text>
+    </g>
   </g>
 </svg>
