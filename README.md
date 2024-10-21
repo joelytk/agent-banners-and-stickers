@@ -15,7 +15,7 @@ Subsale Banners:
 | 8' x 4'             | **High** | **Done** &#x2705; |
 | 10' x 3'            | **High** | **Done** &#x2705; |
 | 10' x 4'            | **High** | **Done** &#x2705; |
-| 16' x 6'            | Low      | Todo              |
+| 16' x 6'            | Low      | **Done** &#x2705; |
 
 Subsale Stickers:
 
